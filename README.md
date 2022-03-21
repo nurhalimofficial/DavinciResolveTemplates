@@ -1,0 +1,2 @@
+# DavinciResolveTemplates
+DaVinci Resolve Templates
